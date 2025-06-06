@@ -1,2 +1,2 @@
-# 101game
+# 110game
 RPG for HIST 110
